@@ -1,8 +1,9 @@
-<head>
+<HTML>
+ <head>
   <title>
    реклама
   </title>
-  <b><p style="color:blueviolet"><em>добро пожаловать на рекламный сайт</p></b></em>
+  <b><p style="color:red"><em>добро пожаловать на рекламный сайт</p></b></em>
  </head>
  <body>
   <button> клик  </button> <p>
